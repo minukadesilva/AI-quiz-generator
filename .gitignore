@@ -1,0 +1,10 @@
+# Sensitive keys
+.env
+
+# Python folders
+__pycache__/
+venv/
+.venv/
+
+# Streamlit local settings
+.streamlit/
